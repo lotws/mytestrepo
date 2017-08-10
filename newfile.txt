@@ -3,3 +3,5 @@ this is a test file
 added as new branch ( featureB )
 
 edited locally as localB
+
+another local edit
